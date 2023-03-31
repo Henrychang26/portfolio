@@ -12,7 +12,7 @@ export function About() {
             <img src={pic} />
           </div>
           <div className="flex flex-row">
-            <div>Tech Stacks:</div>
+            <div>Tech Stacks::</div>
             <div>
               <SiSolidity />
             </div>
